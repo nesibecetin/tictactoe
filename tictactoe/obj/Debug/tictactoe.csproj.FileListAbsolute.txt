@@ -1,0 +1,12 @@
+C:\Users\iremunver\Desktop\tictactoe\tictactoe\bin\Debug\tictactoe.exe.config
+C:\Users\iremunver\Desktop\tictactoe\tictactoe\bin\Debug\tictactoe.exe
+C:\Users\iremunver\Desktop\tictactoe\tictactoe\bin\Debug\tictactoe.pdb
+C:\Users\iremunver\Desktop\tictactoe\tictactoe\obj\Debug\tictactoe.csprojResolveAssemblyReference.cache
+C:\Users\iremunver\Desktop\tictactoe\tictactoe\obj\Debug\tictactoe.Form1.resources
+C:\Users\iremunver\Desktop\tictactoe\tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
+C:\Users\iremunver\Desktop\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.Cache
+C:\Users\iremunver\Desktop\tictactoe\tictactoe\obj\Debug\tictactoe.exe
+C:\Users\iremunver\Desktop\tictactoe\tictactoe\obj\Debug\tictactoe.pdb
+C:\Users\iremunver\Desktop\tictactoe\tictactoe\obj\Debug\tictactoe.Form2.resources
+C:\Users\iremunver\Desktop\tictactoe\tictactoe\obj\Debug\tictactoe.Form3.resources
+C:\Users\iremunver\Desktop\tictactoe\tictactoe\obj\Debug\tictactoe.Form4.resources
